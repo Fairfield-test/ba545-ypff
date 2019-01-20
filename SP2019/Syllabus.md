@@ -154,5 +154,15 @@ __Academic Honesty__: Fairfield University’s primary purpose is the pursuit of
 
 __Students with Disabilities__: Fairfield University is committed to providing qualified students with disabilities an equal opportunity to access the benefits, rights and privileges of its services, programs and activities, in an accessible setting. Fur-thermore, in compliance with Section 504 of the Rehabilitation Act, the Americans with Disabilities Act, and Connecticut State laws, we provide reasonable accommodations to qualified students, to reduce the impact of disabilities on academic functioning or upon other major life activities. 
 
+---
 
+## Course Outline
+| Date | Lecture | In Class Activities | Student Work |
+:--- | :--- | :--- | :---
+| Jan., 28 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
+| Feb., 4 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
+| Feb., 11 | Data Preparation | Data Preprocessing; PCA | MP#1 - Pt1 |
+| Feb., 18 - University Holiday, class meeting moves to Feb., 19 |
+| Feb., 19 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - Pt1 |
+| Feb., 25 | | Recommender Systems | MP#1 - Pt2 |
 
