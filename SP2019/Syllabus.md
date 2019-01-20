@@ -10,8 +10,8 @@
 ---
 
 ## Course Information
-| Course Info |  |  |
---- | --- | ---
-**Course Number:** `BA545` | **Credit Hours:**: 3 | **Title:** Data Mining
-**Prerequisites:** `BA500`, `BA505` | **Course Duration**: Jan., 28 - Apr., 29 |   |
-**Delivery Method:**:  In class (**DSB 115**) and online ([Github](#)) | **Meeting Time:** M 6:30 - 9:30 PM, following [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |   |
+| **Title:** Data Mining |  |
+--- | --- 
+**Course Number:** `BA545` | **Credit Hours:**: 3 | 
+**Prerequisites:** `BA500`, `BA505` | **Course Duration**: Jan., 28 - Apr., 29 |
+**Delivery Method:**:  In class (**DSB 115**) and online ([Github](#)) | **Meeting Time:** M 6:30 - 9:30 PM, following [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
