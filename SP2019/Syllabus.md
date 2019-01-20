@@ -10,6 +10,7 @@
 + [Deliverables](#deliverables)
 + [Attendance and Class Participation](#attendance-and-class-participation)
 + [Other Course Policies](#other-course-policies)
++ [Cource Outline](#course-outline)
 
 ## Professor Information 
 | Contact Info         |                                                                  |                                       |
@@ -22,7 +23,7 @@
 | **Title:** Data Mining |  |
 :--- | :--- 
 **Course Number:** `BA545` | **Credit Hours:** 3 | 
-**Prerequisites:** `BA500`, `BA505` | **Course Duration**: Jan., 28 - Apr., 29 |
+**Prerequisites:** `BA500`, `BA505` | **Course Duration**: Jan., 28 - May, 6th |
 **Delivery Method:**  In class (**DSB 115**) and online ([Github](#)) | **Meeting Time:** M 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
 
 ### Course Description
@@ -157,12 +158,25 @@ __Students with Disabilities__: Fairfield University is committed to providing q
 ---
 
 ## Course Outline
+
+The following course outline is tentative and subject to change when and where deem needed.
+
 | Date | Lecture | In Class Activities | Student Work |
 :--- | :--- | :--- | :---
-| Jan., 28 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
-| Feb., 4 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
-| Feb., 11 | Data Preparation | Data Preprocessing; PCA | MP#1 - Pt1 |
-| Feb., 18 | University Holiday, class meeting moves to Feb., 19 |
-| Feb., 19 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - Pt1 |
-| Feb., 25 | | Recommender Systems | MP#1 - Pt2 |
+| 1/28 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
+| 2/4 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
+| 2/11 | Data Preparation | Data Preprocessing; PCA | MP#1 - pt1 |
+| 2/18 | University Holiday, class meeting moves to Feb., 19 |
+| 2/19 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - pt1 |
+| 2/25 | | Recommender Systems | MP#1 - pt2 |
+| 3/4 | Stats Overview and Review | Handling Categorical Data; Handling Imbalanced Data | Competition#1 Due |
+| 3/11 | Unsupervised Learning - Clustering | K-means Clustering | Competition#2 Kick-off |
+| 3/18 | Spring Recess - No Class Meeting Times |
+| 3/25 | Basic Classification | Naive Bayes; Logistic Regression | MP#2 - pt2 |
+| 4/1 | Advanced Classification | Decision Trees; SVM | MP#1 - pt3 |
+| 4/8 | Advanced Classification | XGBoost; Random Forest | |
+| 4/15 | Model Evaluation and Optimization | Ensemble Learning | | MP#2 - pt3 |
+| 4/22 | Model Evaluation and Optimization | Hyperparameter Optimization | | |
+| 4/29 | Intro to Deep Learning | Deep Learning Basics | |
+| 5/6 | | | Project 2 Presentations |
 
