@@ -14,7 +14,7 @@
 :--- | :--- 
 **Course Number:** `BA545` | **Credit Hours:**: 3 | 
 **Prerequisites:** `BA500`, `BA505` | **Course Duration**: Jan., 28 - Apr., 29 |
-**Delivery Method:**:  In class (**DSB 115**) and online ([Github](#)) | **Meeting Time:** M 6:30 - 9:30 PM, following [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
+**Delivery Method:**  In class (**DSB 115**) and online ([Github](#)) | **Meeting Time:** M 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
 
 ### Course Description
 
