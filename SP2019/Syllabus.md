@@ -28,3 +28,51 @@ Below books are not required, but you are suggested to have them for better stud
 + Introduction to Data Mining, by Tan, Steinbach, and Kumar, (ISBN-10: 0-321-32137-7, ISBN-13: 9780321321367).
 + Modeling Techniques in Predictive Analytics with Python and R: A Guide to Data Science, by Miller, (ISBN-10: 0133892069, ISBN-13: 9780133892062)
 + Data Mining: Concepts and Techniques (3rd ed.), by Han, Kamber and Pei, (ISBN-10: 0123814790, ISBN-13: 978-0123814791)
+### Other Materials
+Other materials used in this course include, but not limit to: lecture slides, Jupyter notebooks, data files - these will be distributed via Github.
+
+### Technical Requirements
+Jupyter notebooks/Jupyterhub/JupyterLab are used throughout this course. You can use the university's [BA Lab](https://ba-lab.fairfield.edu/hub/login) or your own distribution. 
+
+__Note:__ It is __YOUR OWN__ responsibility to make sure you have access to at least one of the above computing environments.
+
+## Learning Objectives
+Upon completion of this course, the students should be able to:
++ LO1. Gain a comprehensive understanding of advanced data mining techniques and technologies;
++ LO2. Understand the role of data mining in business analytics, and its impact(s) to improve organizational com-petitive advantages;
++ LO3. Gain an in-depth understanding of the data mining terminology and process, from a practical standpoint;
++ LO4. Gain an appreciation of realizing/implementing data mining applications in various domains, and related techniques/tools;
++ LO5. Undertake data mining project in a collaborative manner by comprehending and applying required technol-ogies and skillset(s);
++ LO6. Gain an appreciation of trending topics in the realm of business analytics, as well as explore the potential ana-lytical opportunities.
+
+## Grading Policies
+
+This class is graded based on a point system (with a total of __1,000__ points), with multiple deliverables. The deliverables and associated points are shown below. I reserve the right to change following policies when deemed needed.
+
+
+| Deliverables | Point Value |
+:--- | :---
+| Mini projects (2 x 3 parts, each worth __50__ points) | 6 x 50 = __300__ points |
+| Competition #1 | __250__ points |
+| Competition #2 | __350__ points |
+| Participation and In-class notebook Submissions | __100__ points |
+| __Total__ | __1,000__ points|
+
+### Grading Scale
+
+*Percentages and letter grades are provided for your convenience, as this class (noted above) is based on a point system.*
+
+| Total Points | Percentage | Letter Grade |
+:--- | :--- | :--- 
+| __930 - 1,000 | 93 - 100 | A__ |
+| __900 - 929 | 90 - 92.9 | A-__ |
+| __870 - 899 | 87 - 89.9 | B+__ |
+| __830 - 869 | 83 - 86.9 | B__ |
+| __800 - 829 | 80 - 82.9 | B-__ |
+| __770 - 799 | 77 - 79.9 | C+__ |
+| __730 - 769 | 73 - 76.9 | C__ |
+| __700 - 729 | 70 - 72.9 | C-__ |
+| __699 and below | 69.9 and below | F__ |
+
+
+## Deliverables
