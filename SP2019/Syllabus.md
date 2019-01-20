@@ -1,6 +1,8 @@
 
 # BA545: Data Mining Syllabus, Spring 2019
 ---
+## Table of Contents
+[Professor Information](#Professor_Information)
 
 ## Professor Information 
 | Contact Info         |                                                                  |                                       |
