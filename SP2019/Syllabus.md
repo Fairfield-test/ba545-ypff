@@ -36,6 +36,8 @@ Jupyter notebooks/Jupyterhub/JupyterLab are used throughout this course. You can
 
 __Note:__ It is __YOUR OWN__ responsibility to make sure you have access to at least one of the above computing environments.
 
+---
+
 ## Learning Objectives
 Upon completion of this course, the students should be able to:
 + LO1. Gain a comprehensive understanding of advanced data mining techniques and technologies;
@@ -44,6 +46,8 @@ Upon completion of this course, the students should be able to:
 + LO4. Gain an appreciation of realizing/implementing data mining applications in various domains, and related techniques/tools;
 + LO5. Undertake data mining project in a collaborative manner by comprehending and applying required technol-ogies and skillset(s);
 + LO6. Gain an appreciation of trending topics in the realm of business analytics, as well as explore the potential ana-lytical opportunities.
+
+---
 
 ## Grading Policies
 
@@ -74,5 +78,6 @@ This class is graded based on a point system (with a total of __1,000__ points),
 | 700 - 729 | 70 - 72.9 | C- |
 | 699 and below | 69.9 and below | F |
 
+---
 
 ## Deliverables
