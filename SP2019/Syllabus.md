@@ -10,7 +10,7 @@
 ---
 
 ## Course Information
-| Course Info | --- | --- |
+| Course Info |  |  |
 --- | --- | ---
 **Course Number:** `BA545` | **Credit Hours:**: 3 | **Title:** Data Mining
 
