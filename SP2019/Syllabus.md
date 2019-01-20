@@ -81,3 +81,69 @@ This class is graded based on a point system (with a total of __1,000__ points),
 ---
 
 ## Deliverables
+
+__NOTE:__ All submissions should be in __Jupyter Notebooks__.
+__NOTE:__ Please check each week's schedule/checklist frequently for important dates and other information.
+
+### Mini-projects:
+
+There are __two (2)__ mini-projects in this course. Although each mini-project is a *complete* data mining process, they focus on different aspects of it. These are designed to provide you with an opportunity to internalize as well as apply the materials discussed during the class ses-sion and related practices.
+
+Each mini-project has __three (3) __ parts - these parts will be made available along this course, please pay attention to each week's schedule/checklist.
+
+I expect you to put your best individual effort to these parts, __WITHOUT__ collaborating with your class peers. 
+
+For each part, I have provided a __checkpoint opportunity__ for you so I can check on your work and provide feedback – you can submit your draft to me via email. I will __NOT__ grade on your draft work.
+
+Completed notebooks should be submitted to your Github repo. __No email submission will be accepted.__
+
+### Competitions
+
+There will be __two (2)__ course projects during the course. Both projects will be assessed by experienced analytics professionals. *A peer evaluation system is designed to evaluate the individual performances within groups.*
+
+__Competition #1: Advanced Preparation of Financial Data.__ The first competition focuses on data preprocessing (in-cluding data understanding), which is an important, maybe the most time consuming step in the CRISP-DM process. This is a group-based, competition-oriented project. _Advanced modeling techniques, and novel data preprocessing steps will be rewarded with extra points._  Detailed competition rules and guidelines will be mad available to your later. There are two deliverables in this competition:
+
++ _Milestone Report_: This is the report that you present the initial descriptive statistics, data visualization, and other da-ta understanding results. These would be the foundation for you to select different data pre-processing strategies, which should be included in this report as well. Formatting and writing styles are recommended, but NOT required in this report.
++ _Final Results Report_: This is the report in which you present the final (preprocessing & modeling) results, including the final descriptive statistics, data visualization, imputation technique and results, normalization technique and results, correlation analysis results, standardization results, recoding technique and results, and other important information. All formatting and other guidelines __should__ be observed.
+
+__Competition #2: Data Mining Applications.__ This project would either be a part of a larger competition, or from re-search projects of your instructor. Decision will be made further into the semester, based on the availability of the required dataset for the competition. You will be using Jupyter (provided by Fairfield University Dolan School of Business) to complete the data mining tasks for solving the business problem. Advanced modeling techniques, and presentation skills will be rewarded with extra points. There are four required deliverables for this project: 
++ _Project Proposal_: a written deliverable indicating the business problem you selected, the rationale for selection, and the expected data mining technique; 
++ _Data Audit Report_: providing the rationale and results of variable selection (using correlation matrix, and other tools), as well as the data transformation/standardization, imputation, and other data preparation steps. At least three data imputation techniques are required at this stage;
++ _Initial Data Models_: provide the initial data models created for this project – all appropriate modeling techniques should be attempted at this stage (decision tree, k-NN, ANN, SVM, and regression models). The evaluation metrics (ROC, AUC, accuracy, precision, recall, etc.) need to be reported here as the foundation for model selection;
++ _Final Report and Presentation_: providing a written summary and interpretation of your (final) models, and present them in class in front of the “client”.
+
+---
+
+## Attendance and Class Participation
+
+Learning will become much more informative and interesting through lively discussions and exchanges of ide-as/experiences during the class sessions. As such, students are expected to attend every class meeting. Successful class at-tendances, participations, and discussions, imply: 
+
+__Attendance and Note Taking__: Attend each and every class in a timely manner. Be aware that some of the material dis-cussed in class will NOT be covered in the textbook, but will often appear in the exams. You will need to submit exer-cise files after most of the classes. Of course, I realize that in some cases unforeseeable emergencies arise. If you need to miss class for a legitimate, predictable reason, you must inform me and also take the initiative as early as possible to mitigate the effects of that absence. For example, you should establish a buddy system and ask another peer to take notes, handouts for you. You should find out what took place in the class prior to your next class attendance.
+
+__Preparations__: To contribute to class discussions, you must spend adequate time prior to class preparing carefully all re-quired tasks (e.g., readings, assignments). Please take your own laptop – meeting the minimum hardware and software rquirements to every class meeting time – this is __mandatory__!
+
+
+__Contributing in Class Discussions__: If you are in class and are well prepared, the next key step is to contribute ideas. While this may seem difficult at first, asking questions helps your classmates as well as you in clarifying concepts and overall understanding. Each of you will eventually be working in some organization where collaboration and discussions will be es-sential to problem solving in some business domain. Consider classroom discussion in the same spirit and participate!
+
+__Respect and Dignity__: It is also important for each of us as individuals to respect each other. Treat your classmates with respect and dignity (I like to call this R&D). Listen carefully to the questions and comments while keeping an open mind for ideas. It is okay to disagree with certain viewpoints, but present your arguments in a courteous manner. Negative body lan-guage such as rolling your eyes, using phrases such as “that was a dumb idea”, or interrupting others to express disagreements runs counter to the spirit of positive learning environment and is not okay. At the end of the day, we would like to create a positive environment that is conducive to learning.
+
+__Professionalism__: As budding professionals and business majors, conduct yourself in a professional manner just as you would with an employer or colleague. Refrain for unprofessional behaviors such as arriving late to class, coming in and out of class, taking a nap in class, making unprofessional comments to other students and the instructor, and sending unprofes-sional comments. Out of respect for fellow students, all mobile communication and entertainment devices need to be turned off and kept off during the class. Only software tools required for the class (e.g. SPSS Modeler) or note taking software (e.g., Evernote) the class time.
+
+---
+
+## Other Course Policies
+
+__Computer and Lab__: You will have to bring in a laptop for every class in order to complete the in-class tutorials. It is your responsibility to make sure that your laptop is up-to-date so that it runs the system smoothly. You will need to have access to a Jupyter environment to complete the course work - fail to do so will lead to failing the course.
+
+__Course Materials__: All the teaching materials, including assignments and exams, are the intellectual properties of Fair-ield University – distributing such materials without written approval is strongly prohibited.
+
+__Late Submissions__: Grades become official one week after assignments/exams have been returned by the instructor. Late submissions might be accepted with a 10% grade penalty. If you miss an exam, you may be given a make-up exam if you provide a written official excuse, such as a doctor’s note covering the date the quiz is given. Oral excuses are not acceptable. No make-up opportunities would be given to final deliverables of both competitions/projects.
+
+_Email Communications and Feedbacks_: When sending an email to your instructor, please include in your email your section name or the time you are taking the class (i.e., using “BA545  + your name” in the subject line). Normally, I would reply to your email no longer than __24__ hours. I will not respond to emails sending from/to non-university emails. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. Special Note: Throughout this course, I will use my student email address (jtao@student.fairfield.edu) to share course files with you – however, ALL course related communications should be referred to my main email (jtao@fairfield.edu).
+
+__Academic Honesty__: Fairfield University’s primary purpose is the pursuit of academic excellence. All members of the Fairfield University community share responsibility for establishing and maintaining appropriate standards of academic honesty and integrity. This is possible only in an atmosphere where discovery and communication of knowledge are marked by scrupulous, unqualified honesty. In the event of such dishonesty, professors are to award a grade of zero for the project, paper, or examination in question, and may record an F for the course itself.
+
+__Students with Disabilities__: Fairfield University is committed to providing qualified students with disabilities an equal opportunity to access the benefits, rights and privileges of its services, programs and activities, in an accessible setting. Fur-thermore, in compliance with Section 504 of the Rehabilitation Act, the Americans with Disabilities Act, and Connecticut State laws, we provide reasonable accommodations to qualified students, to reduce the impact of disabilities on academic functioning or upon other major life activities. 
+
+
+
