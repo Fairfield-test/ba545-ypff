@@ -19,6 +19,7 @@
 ### Course Description
 
 This course provides the students with an advanced understanding of the practices of data mining, with a special focus on business analytics. To assure the practical relevance of this course, an emphasis of this course is on the applications of techniques and tools realizing data mining in terms of business analytics. Data mining concepts are introduced following along Cross-Industry Standard Process for Data Mining (**CRISP-DM**) – all learned techniques are applied in a course project. As the direct subsequent of the “Introduction to Business Analytics” course, advanced data mining techniques, tech-nologies, and tools are introduced and illustrated as well, with an emphasis on predictive analytics. Analytical programming language (e.g. Python/Jupyter) is tightly used through a series of tutorials and case studies. This course serves as the second course in the four-course sequence in the business analytics specialization. Students are expected to actively participate in the course deliveries through inde-pendent assignments (essays), case studies, and group projects. 
+
 ---
 
 ## Course Materials
