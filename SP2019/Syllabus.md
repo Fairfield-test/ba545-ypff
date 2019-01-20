@@ -162,7 +162,7 @@ __Students with Disabilities__: Fairfield University is committed to providing q
 | Jan., 28 | Intro to Data Mining | Course Logistics; A Data Mining Tour | Python Review |
 | Feb., 4 | Framing Your Analytical Question | Starting with Data; Data Handling with Pandas | Competition#1 Kick-off |
 | Feb., 11 | Data Preparation | Data Preprocessing; PCA | MP#1 - Pt1 |
-| Feb., 18 - University Holiday, class meeting moves to Feb., 19 |
+| Feb., 18 | University Holiday, class meeting moves to Feb., 19 |
 | Feb., 19 | Data Exploration | Feature Selection Pt1 & Pt2 | MP#2 - Pt1 |
 | Feb., 25 | | Recommender Systems | MP#1 - Pt2 |
 
