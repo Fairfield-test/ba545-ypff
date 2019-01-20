@@ -2,7 +2,14 @@
 # BA545: Data Mining Syllabus, Spring 2019
 ---
 ## Table of Contents
-[Professor Information](#Professor_Information)
++ [Professor Information](#Professor_Information)
++ [Course Information](#Course_Information)
++ [Course Materials](#Course_Materials)
++ [Learning Objectives](#Learning_Objectives)
++ [Grading Policies](#Grading_Policies)
++ [Deliverables](#Deliverables)
++ [Attendance and Class Participation](#Attendance_and_Class_Participation)
++ [Other Course Policies](#Other_Course_Policies)
 
 ## Professor Information 
 | Contact Info         |                                                                  |                                       |
